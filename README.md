@@ -1,2 +1,3 @@
-# channel_manager
-Channel manager for Discord
+# Channel Manager
+チャンネル作ったり消したりできます
+間に合わせなのでとりあえず版です
